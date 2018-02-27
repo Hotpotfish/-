@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1430098725 source:f:\workplace(c)\parkinglot\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"malloc.h"
+	"string.h"
+
+1431283470 source:f:\workplace(c)\parkinglot2_6(not finsh)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"malloc.h"
+	"string.h"
+
+1431283470 source:f:\workplace(c)\parkinglot2_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"malloc.h"
+	"string.h"
+

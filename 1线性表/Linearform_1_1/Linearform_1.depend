@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1427550822 source:f:\workplace(c)\linearform_1\main.c
+	"stdio.h"
+	"malloc.h"
+
+1430731176 source:f:\workplace(c)\linearform_1_1\main.c
+	"stdio.h"
+	"malloc.h"
+

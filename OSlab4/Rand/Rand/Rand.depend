@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465456500 source:f:\workplace(c)\oslab4\rand\rand\main.c
+	<stdio.h>
+	<stdlib.h>
+

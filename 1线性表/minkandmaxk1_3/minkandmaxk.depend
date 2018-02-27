@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1428329413 source:f:\workplace(c)\minkandmaxk\main.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+
+1428329413 source:f:\workplace(c)\minkandmaxk1_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+

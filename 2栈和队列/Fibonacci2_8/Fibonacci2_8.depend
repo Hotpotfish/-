@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430729078 source:f:\workplace(c)\fibonacci2_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"malloc.h"
+

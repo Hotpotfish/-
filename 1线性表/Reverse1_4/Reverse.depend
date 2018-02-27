@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1428372707 source:f:\workplace(c)\reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1430728429 source:f:\workplace(c)\reverse1_4\main.c
+	<stdio.h>
+	<stdlib.h>
+

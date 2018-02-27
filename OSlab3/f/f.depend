@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1385316878 source:f:\workplace(c)\oslab3\f\main.cpp
+	<iostream>
+
+1465489178 source:f:\workplace(c)\oslab3\f\first.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"first.h"
+
+1465489186 f:\workplace(c)\oslab3\f\first.h
+
+1465489044 source:f:\workplace(c)\oslab3\f\next.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"next.h"
+
+1465489044 f:\workplace(c)\oslab3\f\next.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1428945268 source:f:\workplace(c)\two_waycircularlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1430728899 source:f:\workplace(c)\two_waycircularlist1_5\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464321350 source:f:\workplace(c)\oslab2\lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

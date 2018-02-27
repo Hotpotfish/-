@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1427557375 source:f:\workplace(c)\josephus\main.c
+	"stdio.h"
+	"malloc.h"
+
+1427560808 source:f:\workplace(c)\josephus1_2\main.c
+	"stdio.h"
+	"malloc.h"
+

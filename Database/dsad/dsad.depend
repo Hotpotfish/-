@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444746639 source:f:\workplace(c)\database\dsad\main.c
+	"stdio.h"
+	"string.h"
+	"stdlib.h"
+
